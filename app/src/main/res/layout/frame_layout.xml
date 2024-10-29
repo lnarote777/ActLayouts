@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="start|top"
+        android:background="@color/topleft" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="center|top"
+        android:background="@color/topmid" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="end|top"
+        android:background="@color/topright" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="start|center"
+        android:background="@color/midleft" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="center"
+        android:background="@color/center" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="end|center"
+        android:background="@color/midright" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="start|bottom"
+        android:background="@color/botleft" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="center|bottom"
+        android:background="@color/botmid" />
+    <View
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="end|bottom"
+        android:background="@color/botright" />
+
+</FrameLayout>

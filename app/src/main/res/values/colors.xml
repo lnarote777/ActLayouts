@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#673AB7</color>
+    <color name="blue">#2196F3</color>
+    <color name="lightgrey">#9E9E9E</color>
+
+
+
+    <color name="topleft">#278b7d</color>
+    <color name="topmid">#42a646</color>
+    <color name="topright">#80bb40</color>
+
+    <color name="midleft">#5b32ad</color>
+    <color name="center">#3547aa</color>
+    <color name="midright">#308bf1</color>
+
+    <color name="botleft">#e51b57</color>
+    <color name="botmid">#f23b2e</color>
+    <color name="botright">#ea9880</color>
+
+
+    <color name="leftRow">#e3eb93</color>
+
+    <color name="leftmid1">#ed8f90</color>
+    <color name="leftmid2">#f384a7</color>
+    <color name="leftmid3">#c888d4</color>
+    <color name="leftmid4">#aa92d5</color>
+    <color name="leftmid5">#939ed4</color>
+
+    <color name="rightmidrow">#ffdc77</color>
+
+    <color name="right1">#84c4f8</color>
+    <color name="right2">#75cffa</color>
+    <color name="right3">#74d9e7</color>
+    <color name="right4">#73c4bd</color>
+
+    <color name="right5_1">#ae191a</color>
+    <color name="right5_2">#7c1047</color>
+    <color name="right5_3">#411581</color>
+    <color name="right5_4">#0f3e97</color>
+    <color name="right5_5">#00555b</color>
+
+
+</resources>
